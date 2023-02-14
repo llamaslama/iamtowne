@@ -1,3 +1,4 @@
+- familiar with Pytorch & Keras architecture
 - familiar with ethereun architecture
 - open source Ethereum client code such as Hyperledger Besu, Fabric,
 - Pow, PoS, DPoS, PBFT, Paxos and others
