@@ -3,7 +3,7 @@
 - familiar with ethereun architecture
 - open source Ethereum client code such as Hyperledger Besu, Fabric,
 - Pow, PoS, DPoS, PBFT, Paxos and others
-- familiar with the mainstream NoSQL blockchain storage LevelDB, RocksBD, etc
+- familiar with the mainstream NoSQL blockchain storage LevelDB, RocksBD, PostgreSQL etc
 
 <!---
 iamtowne/iamtowne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
